@@ -1,0 +1,6 @@
+Ticker,Company,Positive %,Neutral %,Negative %,Signal
+TCS.NS,TCS,50.0,35.0,15.0,Bullish
+INFY.NS,Infosys,65.0,20.0,15.0,Bullish
+RELIANCE.NS,Reliance Industries,70.0,15.0,15.0,Bullish
+HDFCBANK.NS,HDFC Bank,75.0,15.0,10.0,Bullish
+JIOFIN.NS,Jio Financial Services,70.0,25.0,5.0,Bullish
