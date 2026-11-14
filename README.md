@@ -82,7 +82,7 @@ The pipeline evaluates five major NSE-listed companies (`TCS.NS`, `INFY.NS`, `RE
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * **Universal Stock Market Support:** Scale the pipeline beyond regional equities (like Indian NSE stocks) to accept dynamic global tickers from major stock exchanges worldwide (NYSE, NASDAQ, LSE, crypto markets, etc.).
 * **React-Based User Interface:** Build a modern, interactive web frontend (using React or Next.js) where users can search any ticker, visualize live candlestick/line charts, view real-time VADER news sentiment cards, and see model price predictions.
