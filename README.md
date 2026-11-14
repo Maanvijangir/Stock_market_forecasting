@@ -27,11 +27,11 @@ The pipeline evaluates five major NSE-listed companies (`TCS.NS`, `INFY.NS`, `RE
 
 | Ticker | Company | RMSE (₹) | MAE (₹) | $R^2$ Score |
 | :--- | :--- | :---: | :---: | :---: |
-| **TCS.NS** | Tata Consultancy Services | 86.97 | 65.48 | **0.9002** |
-| **RELIANCE.NS** | Reliance Industries | 37.45 | 29.53 | **0.8817** |
-| **HDFCBANK.NS** | HDFC Bank | 24.75 | 21.50 | **0.8203** |
-| **INFY.NS** | Infosys | 47.56 | 37.30 | **0.8181** |
-| **JIOFIN.NS** | Jio Financial Services | 6.74 | 5.14 | **0.5683** |
+| **TCS.NS** | Tata Consultancy Services | 92.58 | 69.88 | **0.8869** |
+| **RELIANCE.NS** | Reliance Industries | 38.93 | 29.58 | **0.8722** |
+| **HDFCBANK.NS** | HDFC Bank | 29.91 | 26.45 | **0.7377** |
+| **INFY.NS** | Infosys | 49.85 | 39.19 | **0.8002** |
+| **JIOFIN.NS** | Jio Financial Services | 6.33 | 5.04 | **0.6202** |
 
 ---
 
